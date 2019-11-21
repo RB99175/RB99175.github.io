@@ -1,0 +1,32 @@
+
+body{
+    background-image: url("https://www.thecuriouschickpea.com/wp-content/uploads/2018/08/restaurant-style-garlic-naan-8.jpg");
+    background-color: rgb(214, 247, 192);
+    color: rgb(8, 2, 2);
+    padding: 4px 6px;
+    font: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    line-height: 1.2;
+    display: inline-block;
+    border-radius: 3px;
+background-position: center;
+}
+
+h1{
+    color: rgba(11, 11, 12, 0.342);
+    font-family: verdana;
+    font-size: 300%;
+}
+
+body {font-family: "Times New Roman", Georgia, Serif;}
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Playfair Display";
+  letter-spacing: 5px;
+}
+
+p {
+    color: black;
+    font-family: courier;
+    font-size: 160%;
+}
